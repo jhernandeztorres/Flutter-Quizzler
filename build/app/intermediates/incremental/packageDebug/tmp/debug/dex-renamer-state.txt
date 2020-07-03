@@ -1,0 +1,4 @@
+#Thu Jul 02 18:18:36 EDT 2020
+base.0=/Users/josehernandeztorres/StudioProjects/quizzler-flutter-challenge-starting/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
